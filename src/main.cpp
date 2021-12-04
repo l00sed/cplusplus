@@ -60,7 +60,7 @@ class LoginManager
 
     /**
      * addUser()
-     *  This function adds new user information to the user.dat and pswd.dat files
+     *  This function adds new user information to the users.dat and pswds.dat files
      *  -- username
      *     Interactively specify an email address for the login
      *  -- password
@@ -111,7 +111,7 @@ class LoginManager
 
     /**
      * checkFile()
-     *   Checks provided login information against the user.dat and pswd.dat files
+     *   Checks provided login information against the users.dat and pswds.dat files
      * -- attempt
      *    The attempted login (private)
      * -- p_filename

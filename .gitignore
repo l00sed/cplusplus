@@ -1,3 +1,2 @@
-src/.exrc
-./src/user.dat
-./src/pswd.dat
+src/users.dat
+src/pswds.dat
